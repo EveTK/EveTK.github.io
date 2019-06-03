@@ -7,8 +7,7 @@ author:     TK
 header-img: img/黑百合.jpg
 catalog:      true
 tags:
-    - iOS
-    - 定时器
+    - Python
 ---
 
 ## Python语言进阶
