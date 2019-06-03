@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      Python语言进阶
+subtitle:   Python语言进阶讲解
+date:       2019-06-03
+author:     TK
+header-img: img/黑百合.jpg
+catalog:      true
+tags:
+    - iOS
+    - 定时器
+---
+
 ## Python语言进阶
 
 1. 数据结构和算法
