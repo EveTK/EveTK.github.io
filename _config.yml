@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "哔哩哔哩",
+        href: "https://space.bilibili.com/13961865"
     }
 ]
